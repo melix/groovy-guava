@@ -1,0 +1,4 @@
+moduleName=groovy-guava
+moduleVersion=1.0.0-SNAPSHOT
+extensionClasses=com.google.common.collect.Iterables,com.google.common.collect.Iterators,com.google.common.collect.Collections2,groovyx.guava.ImmutableGuavaExtension
+staticExtensionClasses=groovyx.guava.CacheStaticExtension
